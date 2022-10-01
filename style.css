@@ -29,13 +29,14 @@ img {
   border-radius: 10px;
 }
 
-
 h1 {
   width: 250px;
   font-size: 22px;
   font-weight: 700;
   text-align: center;
   margin-left: 10px;
+  color: rgb(31, 50, 81);
+
 }
 
 p {
@@ -46,3 +47,9 @@ p {
   width: 250px;
   margin-left: 10px;
 }
+/*
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+*/
