@@ -12,38 +12,37 @@ body {
   min-height: 100vh;
   font-family: Outfit, sans-serif;
   background-color: rgb(214, 226, 240);
-  overflow: hidden;
 }
 
 main {
-  max-width: 320px;
+  max-width: 20rem;
   background-color: rgb(255, 255, 255);
-  padding: 16px 16px 16px 16px;
-  border-radius: 20px;
-  -webkit-box-shadow: 0px 20px 32px -1px rgba(0, 0, 0, 0.08);
-  -moz-box-shadow: 0px 20px 32px -1px rgba(0, 0, 0, 0.08);
-  box-shadow: 0px 20px 32px -1px rgba(0, 0, 0, 0.08);
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 1.25rem;
+  -webkit-box-shadow: 0px 20px 32px -1px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: 0px 20px 32px -1px rgba(0, 0, 0, 0.07);
+  box-shadow: 0px 20px 32px -1px rgba(0, 0, 0, 0.07);
 }
 
 img {
   width: 100%;
-  border-radius: 10px;
+  border-radius: 0.625rem;
 }
 
 h1 {
-  width: 250px;
-  font-size: 22px;
+  width: 15.625rem;
+  font-size: 1.375rem;
   font-weight: 700;
   text-align: center;
-  margin: 20px auto;
+  margin: 1.25rem auto 1rem auto;
   color: rgb(31, 50, 81);
 }
 
 p {
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 400;
   color: rgb(123, 135, 157);
   text-align: center;
-  margin: 20px auto;
-  max-width: 260px;
+  max-width: 15.625rem;
+  margin: 0rem auto 1.5625rem auto;
 }
